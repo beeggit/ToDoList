@@ -1,16 +1,14 @@
 //
-//  AddToDoItemViewController.h
+//  ToDoItem.m
 //  ToDoList
 //
 //  Created by Brad Brown on 2/18/15.
 //  Copyright (c) 2015 Brad Brown. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 #import "ToDoItem.h"
 
-@interface AddToDoItemViewController : UIViewController
+@implementation ToDoItem
 
-@property ToDoItem *toDoItem;
 
 @end
